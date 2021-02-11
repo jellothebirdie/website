@@ -26,6 +26,9 @@ th, td{
     height: 30px;
     width: 50%;
 }
+ul{
+    align-self: center;
+}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
