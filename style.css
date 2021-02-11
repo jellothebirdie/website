@@ -49,4 +49,9 @@ ul{
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
- }
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    color: white;
+}
