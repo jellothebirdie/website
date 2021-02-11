@@ -19,7 +19,7 @@ h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 table{
-    margin: 40px;
+    left-margin: 40px;
     border-collapse: collapse;
     table-layout: auto;
 }
@@ -30,7 +30,7 @@ th, td{
 }
 ul{
     text-align:left;
-    margin: 40px;
+    left-margin: 40px;
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
