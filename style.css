@@ -1,23 +1,32 @@
 
 h1{
-    font-size: 20px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+h3{
+    font-size: 16px; 
 }
 h4{
-    font-size: 18px;
+    font-size: 14px;
 }
 #header{
     color:aliceblue;
     background-color: rgb(27, 94, 94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #body{
     background-color: aliceblue;
     color:rgb(27, 94, 94);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table,th,td{
+    border-collapse: collapse;
+    padding:10px;
+    width: 100%;
 }
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align:center;
     margin:auto;
-    padding:20px;
+    padding:auto;
     border:2px solid rgb(28, 32, 68)
  }
