@@ -43,6 +43,8 @@ ul{
     border-width: 30px;
     border-color: rgb(236, 198, 29);
     border-radius: 15px;
+    padding-top: 300px;
+    padding-bottom: 300px;
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
